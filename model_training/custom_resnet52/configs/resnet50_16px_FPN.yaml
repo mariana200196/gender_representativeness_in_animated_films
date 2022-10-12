@@ -1,0 +1,9 @@
+_BASE_: "dummy.yaml"
+MODEL:
+  ANCHOR_GENERATOR:
+    SIZES:
+    - - 16
+    - - 32
+    - - 64
+    - - 128
+    - - 256

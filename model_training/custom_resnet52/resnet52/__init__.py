@@ -1,0 +1,1 @@
+from .resnet52 import build_resnet52_backbone, build_resnet52_fpn_backbone

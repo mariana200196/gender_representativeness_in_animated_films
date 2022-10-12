@@ -1,0 +1,9 @@
+__pycache__
+datasets/*
+models/*
+datasets.zip
+MyTrainer.py
+!datasets/README.md
+output/
+checkpoints/
+*.DS_Store
